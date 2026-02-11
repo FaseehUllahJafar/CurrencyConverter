@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CurrencyConverter.API/CurrencyConverter.API.csproj" />
+  <Project Path="CurrencyConverter.Application/CurrencyConverter.Application.csproj" />
+  <Project Path="CurrencyConverter.Domain/CurrencyConverter.Domain.csproj" />
+  <Project Path="CurrencyConverter.Infrastructure/CurrencyConverter.Infrastructure.csproj" />
+  <Project Path="CurrencyConverter.Tests/CurrencyConverter.Tests.csproj" />
+</Solution>
